@@ -58,4 +58,4 @@ const imgURLs = [
     clearInterval(autoplayTimer);
   };
 
-//   startAutoplay();
+  startAutoplay();
